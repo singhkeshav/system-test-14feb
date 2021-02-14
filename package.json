@@ -1,0 +1,17 @@
+{
+  "name": "systest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp && live-server src --verbose"
+  },
+  "keywords": [],
+  "author": "Kalu Singh(keshav)",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
